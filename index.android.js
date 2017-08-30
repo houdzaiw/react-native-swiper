@@ -12,5 +12,5 @@ import {
   View
 } from 'react-native';
 
-import Swiper3D from '../Swiper3D/Swiper';
+import Swiper3D from './Swiper/index';
 AppRegistry.registerComponent('Swiper3D', () => Swiper3D);
