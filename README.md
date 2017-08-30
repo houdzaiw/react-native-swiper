@@ -7,5 +7,3 @@ Demo project is [here](./Sample).
 
 ## Usage
 
-1. Run `npm install react-native-viewpager --save`
-2. Code like this:
